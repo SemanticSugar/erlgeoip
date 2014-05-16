@@ -3,8 +3,10 @@ erlgeoip
 
 Erlang geoip nif
 
-Installation inscrutions Mac/OS
+Dependencies Mac/OS
 ================================
+
+Install these packages :
 
 - libtool
 - automake
